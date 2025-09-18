@@ -1,0 +1,35 @@
+body {
+    h1{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        text-align: center;
+        font-size: 70px;
+    }
+    background-color: rgb(70, 62, 61);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    ul {
+        font-family: 'Courier New', Courier, monospace;
+        color: white;
+    }
+    tr{
+        color: white;
+
+}
+}
+
+header {
+    nav a {
+        margin: 0 15px;
+        text-decoration: none;
+        color: white;
+        font-weight: bold;
+        text-decoration: none;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+        margin-right: 20px;
+        
+    }
+    nav a:hover{
+        color: rgb(156, 155, 155)
+    }
+}
